@@ -1,5 +1,34 @@
-# Vue 3 + TypeScript + Vite
+# 玉影堂
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+```text
+项目名称玉影堂 
+使用vite+vue3+ts开发 
+使用量子api一个完全开源免费的在线观音web项目 
+可用于任何免费非商用条件下开源
+```
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+
+## 项目架构
+
+```text
+vite
+vue3
+ts
+```
+
+
+## 项目依赖
+
+```handlebars
+1.sass
+2.axios
+3.vue-router
+```
+
+## 安装运行
+```batch
+安装依赖 
+yarn
+运行项目
+yarn run dev
+```
